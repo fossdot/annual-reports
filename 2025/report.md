@@ -467,7 +467,7 @@ Syeda interned and worked as a Business Analyst, helping setup dashboards, on De
 |IndiaFOSS Diversity Scholarship donation from external Foundation|2,50,000 INR|
 |Total CSR Income|1,12,21,670 INR|
 
-* Frappe, a Patron Partner, contributed 30,00,000 INR in FY 2025-26 (6,00,000 INR CSR + 24,00,000 INR sponsorship under Income). This includes an additional 6,00,000 INR, as Frappe transferred only 18,00,000 INR during FY 2024-25
+* Frappe, a Patron Partner, contributed 30,00,000 INR in FY 2025-26 (6,00,000 INR CSR + 24,00,000 INR sponsorship under Income). This includes an additional 6,00,000 INR, as Frappe transferred only 18,00,000 INR instead of INR 24,00,000 during FY 2024-25.
 
 |IndiaFOSS 2025 income|Amount|
 |--|--|
